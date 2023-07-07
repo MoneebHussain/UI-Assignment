@@ -1,0 +1,18 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn {
+    background-color: yellow;
+}
+
+.navbar-nav li a,
+h1,
+.txt {
+    color: #220060;
+}
+
+.btn-bg {
+    background-color: #220060;
+    color: white;
+}
